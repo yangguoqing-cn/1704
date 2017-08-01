@@ -6,3 +6,4 @@ Git tracks changes of files.
 aaaaaaaaa
 bbbbb
 cccccddd
+Creating a new branch is quick.
